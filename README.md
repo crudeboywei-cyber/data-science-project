@@ -16,7 +16,7 @@ The project uses the public, simplified **Palmer Penguins** dataset: 344
 observed penguins, eight variables, three species, three islands and the years
 2007–2009. The raw CSV is preserved unchanged in `penguins.csv`.
 
-- [Official CSV](https://github.com/allisonhorst/palmerpenguins/blob/main/inst/extpenguins.csv)
+- [Official CSV](https://github.com/allisonhorst/palmerpenguins/blob/main/inst/extdata/penguins.csv)
 - [Dataset documentation and explicit CC0 statement](https://allisonhorst.github.io/palmerpenguins/articles/intro.html)
 - [CC0 terms](https://allisonhorst.github.io/palmerpenguins/LICENSE.html)
 
