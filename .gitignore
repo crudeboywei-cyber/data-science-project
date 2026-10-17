@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.env
+.env.*
+*.pem
+*api_key*
+*token*
+.DS_Store

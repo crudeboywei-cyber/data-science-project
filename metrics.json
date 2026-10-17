@@ -1,0 +1,55 @@
+{
+  "source_rows": 344,
+  "mass_rows": 342,
+  "pair_rows": 342,
+  "excluded_missing_mass": 2,
+  "excluded_missing_pairs": 2,
+  "missing_per_column": {
+    "species": 0,
+    "island": 0,
+    "bill_length_mm": 2,
+    "bill_depth_mm": 2,
+    "flipper_length_mm": 2,
+    "body_mass_g": 2,
+    "sex": 11,
+    "year": 0
+  },
+  "species_summary": [
+    {
+      "species": "Adelie",
+      "count": 151,
+      "median_g": 3700.0,
+      "mean_g": 3700.662251655629,
+      "q1_g": 3350.0,
+      "q3_g": 4000.0
+    },
+    {
+      "species": "Chinstrap",
+      "count": 68,
+      "median_g": 3700.0,
+      "mean_g": 3733.0882352941176,
+      "q1_g": 3487.5,
+      "q3_g": 3950.0
+    },
+    {
+      "species": "Gentoo",
+      "count": 123,
+      "median_g": 5000.0,
+      "mean_g": 5076.016260162602,
+      "q1_g": 4700.0,
+      "q3_g": 5500.0
+    }
+  ],
+  "pooled_pearson_r": 0.8712017673060114,
+  "within_species_pearson_r": {
+    "Adelie": 0.4682016942179394,
+    "Chinstrap": 0.6415594129316968,
+    "Gentoo": 0.7026665243575183
+  },
+  "observed_years": [
+    2007,
+    2008,
+    2009
+  ],
+  "source_sha256": "f204db2c753b0937caac3cb35258562c14f073e4bbc76be24b4c51ce22767a93"
+}
